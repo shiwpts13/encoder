@@ -18,7 +18,7 @@
 * git clone https://github.com/shiwpts13/encoder
 * cd encoder
 * python3 -m pip install colorama
-* python3 morse-code.py
+* python3 menu.py
  
 #### Coded By: [SHIWPTS13](https://guardiran.org/profile/30620-shiwpts13)
 

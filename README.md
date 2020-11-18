@@ -1,5 +1,5 @@
 # encoder
-##Installation in linux(Debian, ubuntu, kali:
+##Installation in linux(Debian, ubuntu, kali):
     
     * sudo apt update
     * sudo apt install python3

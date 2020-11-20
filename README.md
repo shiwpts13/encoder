@@ -8,7 +8,7 @@
 * git clone https://github.com/shiwpts13/encoder
 * cd encoder
 * python3 -m pip install colorama
-* python3 morse-code.py
+* python3 menu.py
 
 ## Installation in termux:
 

@@ -1,7 +1,7 @@
 from colorama import Fore
 import os
 def compile():
-    #text = input('please enter your file name: ')
+    
     temp = input(Fore.GREEN+'please enter your text: ')
     #space
     for space in temp:
@@ -83,10 +83,31 @@ def compile():
         temp = temp.replace('x', '$$#(8')
     #y
     for y in temp:
-        temp = temp.replace('y', '87748+-')
+        temp = temp.replace('y', '_0&')
     #z
     for z in temp:
-        temp = temp.replace('z', '&&#($7')
+        temp = temp.replace('z', '&#($')
+
+    #1
+    for one in temp:
+        temp = temp.replace('1', '$*_')
+
+    for two in temp:
+        temp = temp.replace('2', ':~#')
+
+    for three in temp:
+        temp = temp.replace('3', '9!*')
+
+    for four in temp:
+        temp = temp.replace('4', '[--]')
+
+    for five in temp:
+        temp = temp.replace('5', '(;')
+
+    
+
+    
+
     print(Fore.CYAN+temp)
     input('back to menu')
     os.system('clear')
